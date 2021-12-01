@@ -9,7 +9,7 @@ name: "ansible-role-kubernetes"
 
 # Short description of this project
 description: |-
- Ansible role for the provisioning of any Kubernetes version
+ Ansible role for the provisioning of any Kubernetes version.
 
 # Canonical GitHub repo
 github_repo: osodevops/ansible-role-kubernetes
